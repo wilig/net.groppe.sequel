@@ -1,0 +1,9 @@
+# net.groppe.sequel
+
+A tiny SQL DSL.
+
+## License
+
+Copyright (C) 2010 William Groppe
+
+Distributed under the Eclipse Public License, the same as Clojure.
